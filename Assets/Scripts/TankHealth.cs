@@ -36,6 +36,7 @@ public class TankHealth : MonoBehaviour
     private void SetHealthUI()
     {
         // TODO: Update the user interface showing the tank’s health
+        // Make a healthbar above it's head maybe?
     }
 
     public void TakeDamage(float amount)
